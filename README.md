@@ -10,9 +10,14 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 - From Module 16 Challenge
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+![Python Table](https://github.com/awar2170/Big_Data_Intro/blob/main/Amazon_Vine_Analysis/PgAdmin%20Tables/Python%20Table.PNG)
 
     1. How many Vine reviews and non-Vine reviews were there?
+    - There were 33 Vine reviews and 45,388 non-Vine reviews
     2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+    - There were 15 5-Star Vine reviews and 23,733 5-Star non-Vine reviews. 
     3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+    - 45.45% Of the vine reviews were 5-stars and 52.28% fo the non-Vine reviews were 5-stars.
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement
+## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. 
+There appears to be bias in those who reviewed the vine because there are 45.45% 5-star reivews for unpaid groups, but 0 5-star reviews for those who paid for the vine.  There is a bias towards the unpaid.  
